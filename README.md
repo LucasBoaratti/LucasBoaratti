@@ -2,14 +2,14 @@
 
 <p> Olá, meu nome é Lucas, tenho 19 anos e faço curso de Desenvolvimento de Sistemas no SENAI. Atualmente eu trabalho como jovem aprendiz em soluções digitais na Bosch. </p>
 
-<p> Uma curiosidade sobre mim é que eu gosto bastante de gatos (tenho 3), além de gostar da área de programação, eu curto bastante a parte de front-end e UX % UI. Eu também faço faculdade de matemática no IFSP - Hortolândia </p>
+<p> Uma curiosidade sobre mim é que eu gosto bastante de gatos (tenho 3), além de gostar da área de programação, eu curto bastante a parte de front-end e UX & UI. Eu também faço faculdade de matemática no IFSP - Hortolândia </p>
 
-<h1> Linguagens </h1>
+<h1> Linguagens e tecnologias </h1>
 
-<div class="alinhar-imagens">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYk594AhSKw5Eb3iHkPHs_XmpCqaRVgu0mvg&s" width="128px" height="128px">
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" width="128px" height="128px">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeTWiFIaZNIFsCerMBHt-gm1Ub4irbeUWjfw&s" width="128px" height="128px">
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" width="128px" height="128px">
-  <img src="https://banner2.cleanpng.com/20181212/lkz/kisspng-professional-python-high-level-programming-languag-5c115384027755.6218390315446393640101.jpg" width="128px" height="128px">
+<div class="alinhar-imagens" style="align: left;">
+   <a href="https://www.w3.org/html/" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/js/" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/python/" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://www.figma.com/pt-br/" target="blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
 </div>
