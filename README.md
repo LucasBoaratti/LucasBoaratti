@@ -1,17 +1,7 @@
 <h1> Sobre mim: </h1>
 
-<h2> Nome: Lucas Henrique </h2>
+<p> Olá, meu nome é Lucas, tenho 19 anos e faço curso de Desenvolvimento de Sistemas no SENAI. Atualmente eu trabalho como jovem aprendiz em soluções digitais na Bosch. </p>
 
-🖥 Faço curso de Desenvolvimento de Sistemas no SENAI (2/3);
+<p> Uma curiosidade sobre mim é que eu gosto bastante de gatos (tenho 3), além de gostar da área de programação, eu curto bastante a parte de front-end e UX % UI. Eu também faço faculdade de matemática no IFSP - Hortolândia </p>
 
-💻 Trabalho na área de Soluções Digitais na empresa Robert Bosch;
-
-🐱 Gosto bastante de gatos;
-
-💻 Gosto bastante da área de programação, principalmente front-end e web design;
-
-🤔 Curiosidade: Faço faculdade de matemática no IFSP - Hortolândia.
-
-💻 Linguagens 💻
-
-![HTML Logo](https://github.com/user-attachments/assets/ccb4144f-0db4-4e9f-98dd-cea001475fc2) 
+<h1> Linguagens </h1>
