@@ -5,3 +5,5 @@
 <p> Uma curiosidade sobre mim é que eu gosto bastante de gatos (tenho 3), além de gostar da área de programação, eu curto bastante a parte de front-end e UX % UI. Eu também faço faculdade de matemática no IFSP - Hortolândia </p>
 
 <h1> Linguagens </h1>
+
+<p> Adicionarei em breve... </p>
