@@ -8,7 +8,7 @@
 
 <div style="display: flex;">
    <img height="160px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasboaratti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Meus status"/>
-   <img height="160px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasboaratti&layout=compact&langs_count=7&theme=dracula" alt="Status de linguagens"/>
+   <img height="160px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasboaratti&layout=compact&langs_count=5&theme=dracula" alt="Status de linguagens"/>
 </div>
 
 <h1> Linguagens e tecnologias </h1>
