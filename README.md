@@ -7,7 +7,7 @@
 <h1> Meus status </h1>
 
 <div style="display: flex;">
-   <img height="160px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasboaratti&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" alt="Meus status"/>
+   <img height="160px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasboaratti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Meus status"/>
    <img height="160px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasboaratti&layout=compact&langs_count=7&theme=dracula" alt="Status de linguagens"/>
 </div>
 
