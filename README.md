@@ -22,5 +22,7 @@
    <a href="https://www.w3schools.com/JAVA/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
    <a href="https://www.w3schools.com/react/default.asp" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="40" height="40"/>
    <a href="https://www.w3schools.com/django/index.php" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/django-icon-1606x2048-lwmw1z73.png" alt="react" width="30" height="40" />
-          
-</div>
+   <a href="https://vite.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vite" width="30" height="40"></a>
+   <a href="https://fastapi.tiangolo.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="fastapi" width="30" height="40"/></a>
+   <a href="https://www.w3schools.com/sql/default.asp"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="50"/></a>
+<//div>
