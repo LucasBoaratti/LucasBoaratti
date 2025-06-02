@@ -1,5 +1,7 @@
 # Sobre mim 😸
 
+<img src="https://http.cat/200" alt="Status 200">
+
 Olá, meu nome é Lucas, tenho 19 anos e faço curso de Desenvolvimento de Sistemas no SENAI. Atualmente eu trabalho como jovem aprendiz em Soluções Digitais na Bosch.
 
 Uma curiosidade sobre mim é que eu gosto bastante de gatos (tenho 3) e eu curto bastante a parte de Front-End e UI & UX.
