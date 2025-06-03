@@ -1,6 +1,6 @@
 # Sobre mim 😸
 
-<img src="https://http.cat/200" alt="Status 200">
+<img src="https://http.cat/200" alt="Status 200" title="Maurício">
 
 Olá, meu nome é Lucas, tenho 19 anos e faço curso de Desenvolvimento de Sistemas no SENAI. Atualmente eu trabalho como jovem aprendiz em Soluções Digitais na Bosch.
 
