@@ -1,8 +1,8 @@
 # Sobre mim 😸
 
 <div style="display: flex;">
-   <img src="https://http.cat/200" alt="Status 200" title="Maurício" width="500px" height="400px">
-   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTZzeGMwdXpmOXk3MWthZTRkb3k0eW1mZnU1ZzZ0ZmUzYjljdjUyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KcaIAb7hqmjX7hyk9x/giphy.gif" alt="Gato rosa dormindo" title="Gatinho fofo" width="500px" height="400px"/>
+   <img src="https://http.cat/200" alt="Status 200" title="Maurício" width="400px" height="325px">
+   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTZzeGMwdXpmOXk3MWthZTRkb3k0eW1mZnU1ZzZ0ZmUzYjljdjUyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KcaIAb7hqmjX7hyk9x/giphy.gif" alt="Gato rosa dormindo" title="Gatinho fofo" width="400px" height="325px"/>
 </div>
 
 Olá, meu nome é Lucas, tenho 19 anos e faço curso de Desenvolvimento de Sistemas no SENAI. Atualmente eu trabalho como jovem aprendiz em Soluções Digitais na Bosch.
