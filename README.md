@@ -51,4 +51,5 @@ Essas são as linguagens que aprendi ou que estou aprendendo :D
 
 <div style="display: flex;">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="Ícone do MySql" title="MySql" width="70px" height="70px"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="Ícone do SQLite" title="SQLite" width="70px" height="70px"/>
 </div>
