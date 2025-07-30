@@ -39,6 +39,7 @@ Essas são as linguagens que aprendi ou que estou aprendendo :D
    <img src="https://icon.icepanel.io/Technology/png-shadow-512/Django.png" alt="Django" title="Django" width="70px" height="70px"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="70px" height="70px"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" width="70px" height="70px"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="Dart" title="Dart" width="70px" height="70px"/>    
 </div>
 
 <h1>Ferramentas de prototipagem/UI & UX</h1>
