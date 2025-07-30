@@ -12,8 +12,8 @@ Uma curiosidade sobre mim é que eu gosto bastante de gatos (tenho 3) e eu curto
 # Meus Status 😎
 
 <div style="display: flex;">
-   <img src="https://github-readme-stats.vercel.app/api?username=lucasboaratti&show_icons=true&theme=tokyonight" alt="Meu status no GitHub."/>
-   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasboaratti&layout=compact&langs_count=5&theme=tokyonight" alt="Minhas linguagens utilizadas" height="195px"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=lucasboaratti&show_icons=true&theme=radical" alt="Meu status no GitHub."/>
+   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasboaratti&layout=compact&langs_count=10&theme=radical" alt="Minhas linguagens utilizadas" height="200px"/>
 </div>
 
 # Linguagens e tecnologias 💻
