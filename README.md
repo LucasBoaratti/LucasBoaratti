@@ -20,7 +20,7 @@
 
 <div style="display: flex;">
    <img src="https://github-readme-stats.vercel.app/api?username=lucasboaratti&show_icons=true&theme=radical" alt="Meu status no GitHub."/>
-   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasboaratti&layout=compact&langs_count=10&theme=radical" alt="Minhas linguagens utilizadas" width="400px" height="260px"/>
+   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasboaratti&layout=compact&langs_count=10&theme=radical" alt="Minhas linguagens utilizadas" height="350px"/>
 </div>
 
 # Linguagens e tecnologias 💻
