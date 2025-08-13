@@ -18,7 +18,7 @@
 
 # Meus Status 😎
 
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+<div style="display: flex;">
    <img src="https://github-readme-stats.vercel.app/api?username=lucasboaratti&show_icons=true&theme=radical" alt="Meu status no GitHub."/>
    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasboaratti&layout=compact&langs_count=10&theme=radical" alt="Minhas linguagens utilizadas" width="400px" height="260px"/>
 </div>
