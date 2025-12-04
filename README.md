@@ -1,31 +1,17 @@
-# 😸 Bem vindos(as) ao meu perfil 😸
+<img src="assets/LucasBoaratti.png" alt="Meu nome e minhas áreas favoritas ao título de Hollow Knight.">
 
-<div style="display: flex;">
-   <img src="https://http.cat/200" alt="Status 200" title="Maurício" width="400px" height="325px">
-   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTZzeGMwdXpmOXk3MWthZTRkb3k0eW1mZnU1ZzZ0ZmUzYjljdjUyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KcaIAb7hqmjX7hyk9x/giphy.gif" alt="Gato rosa dormindo" title="Gatinho fofo" width="400px" height="325px"/>
-   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/5f6597b4-ff7c-4415-9272-d95759df842f" alt="Hello There!">
-</div>
-
-<div style="display: flex;">
-   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" alt="Olá!" width="150px" height="150px">
-   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/87b72768-3740-4648-b118-c3164ff654cd" alt="Nyan Cat" width="210px" height="210px">
-   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c79649a-b04c-4c78-998f-c126db48305c" alt="Felicidade">
-   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" alt="Galerinha da Akatsuki" width="160px" height="160px">
-   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e4f28204-ea88-4364-a321-8330c3fbde6a" alt="Gatinho pixelado girando." width="160px" height="160px">
-</div>
-
-### 😉 Olá, meu nome é Lucas, tenho 20 anos e faço curso de Desenvolvimento de Sistemas no SENAI. Atualmente eu trabalho como jovem aprendiz em Soluções Digitais na Bosch e faço faculdade de Análise e Desenvolvimento de Sistemas no IFSP. Uma curiosidade sobre mim é que eu gosto bastante de gatos e eu curto bastante Front-End e UI & UX. 😉
+ Olá, meu nome é Lucas, tenho 20 anos e faço curso de Desenvolvimento de Sistemas no SENAI. Atualmente eu trabalho como jovemaprendiz em Soluções Digitais na Bosch e faço faculdade de Análise e Desenvolvimento de Sistemas no IFSP. Uma curiosidade sobre mim é que eu gosto bastante de gatos e eu curto bastante Front-End e UI & UX. 😉
 
 # 🙂 Status 🙂
 
 <div style="display: flex;">
-   <img src="https://github-readme-stats.vercel.app/api?username=lucasboaratti&show_icons=true&theme=radical" alt="Meu status no GitHub."/>
+   <img src="https://github-readme-stats.vercel.app/api?username=lucasboaratti&show_icons=true&theme=radical" alt="Meu status no GitHub." height="350px"/>
    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasboaratti&layout=compact&langs_count=10&theme=radical" alt="Minhas linguagens utilizadas" height="350px"/>
 </div>
 
-# 💻 Linguagens e tecnologias 💻
+<img src="assets/LinguagensTecnologias.png" alt="Linguagens e tecnologias que estou aprendendo ao título de Minecraft.">
 
-### Essas são as linguagens que aprendi ou que estou aprendendo :D
+Essas são as linguagens que aprendi ou que estou aprendendo :D
 
 # 🌈 Front-End 🦴
 
