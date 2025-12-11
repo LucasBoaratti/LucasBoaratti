@@ -1,11 +1,8 @@
 <img src="assets/LucasBoaratti.png" alt="Meu nome e minhas áreas favoritas ao título de Hollow Knight.">
 
- Olá, meu nome é Lucas, tenho 20 anos e faço curso de Desenvolvimento de Sistemas no SENAI. Atualmente eu trabalho como jovemaprendiz em Soluções Digitais na Bosch e faço faculdade de Análise e Desenvolvimento de Sistemas no IFSP. Uma curiosidade sobre mim é que eu gosto bastante de gatos e eu curto bastante Front-End e UI & UX. 😉
+ Olá, meu nome é Lucas, tenho 20 anos e faço curso de Desenvolvimento de Sistemas no SENAI. Atualmente eu trabalho como jovem aprendiz em Soluções Digitais na Bosch e faço faculdade de Análise e Desenvolvimento de Sistemas no IFSP. Uma curiosidade sobre mim é que eu gosto bastante de gatos e eu curto bastante Front-End e UI & UX. 😉
 
-# 🙂 Status 🙂
-
-<div style="display: flex;">
-   <img src="https://github-readme-stats.vercel.app/api?username=lucasboaratti&show_icons=true&theme=radical" alt="Meu status no GitHub." height="350px"/>
+<div style="align: center;">
    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasboaratti&layout=compact&langs_count=10&theme=radical" alt="Minhas linguagens utilizadas" height="350px"/>
 </div>
 
