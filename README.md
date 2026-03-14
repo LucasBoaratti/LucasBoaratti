@@ -1,6 +1,6 @@
 <img src="./assets/LucasBoaratti.png" alt="Meu nome e minhas áreas favoritas ao título de Hollow Knight.">
 
- Olá, meu nome é Lucas, tenho 20 anos e faço curso de Desenvolvimento de Sistemas no SENAI. Atualmente eu trabalho como jovemaprendiz em Soluções Digitais na Bosch e faço faculdade de Análise e Desenvolvimento de Sistemas no IFSP. Uma curiosidade sobre mim é que eu gosto bastante de gatos e eu curto bastante Front-End e UI & UX. 😉
+ Olá, meu nome é Lucas, tenho 20 anos e faço curso de Desenvolvimento de Sistemas no SENAI. Atualmente eu trabalho como jovem aprendiz em Soluções Digitais na Bosch e faço faculdade de Análise e Desenvolvimento de Sistemas no IFSP. Uma curiosidade sobre mim é que eu gosto bastante de gatos e eu curto bastante Front-End e UI & UX. 😉
 
 # 🙂 Status 🙂
 
