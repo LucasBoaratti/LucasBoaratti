@@ -27,6 +27,8 @@ Essas são as linguagens que aprendi ou que estou aprendendo :D
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter" title="Flutter" width="70px" height="70px" />
 </div>
 
+# 💻 BackEnd ⌨️
+
 <div style="display: flex;">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="70px" height="70px"/>
    <img src="https://icon.icepanel.io/Technology/png-shadow-512/Django.png" alt="Django" title="Django" width="70px" height="70px"/>
