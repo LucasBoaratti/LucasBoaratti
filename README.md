@@ -35,7 +35,7 @@ Essas são as linguagens que aprendi ou que estou aprendendo :D
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="70px" height="70px"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" width="70px" height="70px"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="Dart" title="Dart" width="70px" height="70px"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" title="C" width="70px" height="70px" />
+   <img src="./assets/C.png" alt="C" title="C" width="70px" height="70px" />
 </div>
 
 # 🟡 Ferramentas ⚒️
