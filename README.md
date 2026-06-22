@@ -25,6 +25,7 @@ Essas são as linguagens que aprendi ou que estou aprendendo :D
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React." title="React" width="70px" height="70px"/> 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" title="Angular" width="70px" height="70px"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter" title="Flutter" width="70px" height="70px" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue" title="Vue" width="70px" height="70px" />
 </div>
 
 # 💻 BackEnd ⌨️
